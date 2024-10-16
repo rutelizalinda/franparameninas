@@ -100,4 +100,41 @@ criaCartao(
 
  )
 
+ criaCartao(
+'conhecimentos gerais',
+'Quem é o autor de “O Príncipe”?',
+'Maquiavel',
+
+ )
+
+ criaCartao(
+'conhecimentos gerais',
+'Qual o maior animal terrestre?',
+'Elefante africano',
+
+ )
+
+ criaCartao(
+'conhecimentos gerais',
+' Que líder mundial ficou conhecida como “Dama de Ferro”?',
+'Margaret Thatcher',
+
+ )
+
+criaCartao(
+'conhecimentos gerais',
+'Quais os nomes dos três Reis Magos?',
+'Belchior, Gaspar e Baltazar',
+
+)
+
+criaCartao(
+'conhecimento gerais',
+'Qual a religião monoteísta que conta com o maior número de adeptos no mundo?',
+'Cristianismo',
+
+)
+criaCartao(
+'conheciemnbtos gerais '
+)
  
