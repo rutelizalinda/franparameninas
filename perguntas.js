@@ -1,5 +1,5 @@
 criaCartao(
-    'Matemática'
+    'Matemática',
     'Como se calcula a soma dos termos de uma P.A?',
     'Utiliza-se a fórmula: ((a1+an)*r)/2'
 )
@@ -8,7 +8,7 @@ criaCartao(
     'Matemática',
     'Como se calcula a soma dos termos de uma P.A?',
     'Utiliza-se a fórmula: ((a1+an)*r)/2'
-
+)
  criaCartao(
  'ciências',
  'O que significa DNA?',
@@ -75,21 +75,21 @@ criaCartao(
  criaCartao(
 'conhecimentos gerais',
 'Um anel tem 3 pedras preciosas. Quantas pedras preciosas têm 11 anéis?',
-'33.',
+'33.'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 ' Quantos continentes existem?',
-'6',
+'6'
 
  )
  
  criaCartao(
 'conhecimento gerais',
 ' De onde é a invenção do chuveiro elétrico?',
-'Brasil',
+'Brasil'
 
  )
 
