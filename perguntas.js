@@ -12,63 +12,63 @@ criaCartao(
  criaCartao(
  'ciências',
  'O que significa DNA?',
- 'Ácido desoxirribonucleico',
+ 'Ácido desoxirribonucleico'
  
  )
 
  criaCartao(
 'ciências',
 'Qual é o tipo de sangue mais raro?',
-'AB negativo',
+'AB negativo'
 
  )
  
  criaCartao(
 'ciências',
 'A terra tem três camadas quais sao elas?',
-'Crosta, manto e núcleo',
+'Crosta, manto e núcleo'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 'qual o menor país do mundo?',
-'Rússia',
+'Rússia'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 'Quem inventou a lâmpada?',
-'Thomas Edison',
+'Thomas Edison'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 'Quais são as fases da Lua?',
-'Nova, crescente, cheia e minguante',
+'Nova, crescente, cheia e minguante'
 
  )
 
  criaCartao(
 'ciências',
 'Nova, crescente, cheia e minguante',
-'100 ºC',
+'100 ºC'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 'Quantos ossos temos no nosso corpo?',
-'206',
+'206'
 
  )
 
  criaCartao(
 'conhecimento gerais',
 'Qual o maior planeta do sistema solar?',
-'Júpiter',
+'Júpiter'
 
  )
 
@@ -96,42 +96,42 @@ criaCartao(
  criaCartao(
 'conhecimento gerais',
 'Em qual local da Ásia o português é língua oficial?',
-'Macau',
+'Macau'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 'Quem é o autor de “O Príncipe”?',
-'Maquiavel',
+'Maquiavel'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 'Qual o maior animal terrestre?',
-'Elefante africano',
+'Elefante africano'
 
  )
 
  criaCartao(
 'conhecimentos gerais',
 ' Que líder mundial ficou conhecida como “Dama de Ferro”?',
-'Margaret Thatcher',
+'Margaret Thatcher'
 
  )
 
 criaCartao(
 'conhecimentos gerais',
 'Quais os nomes dos três Reis Magos?',
-'Belchior, Gaspar e Baltazar',
+'Belchior, Gaspar e Baltazar'
 
 )
 
 criaCartao(
 'conhecimento gerais',
 'Qual a religião monoteísta que conta com o maior número de adeptos no mundo?',
-'Cristianismo',
+'Cristianismo'
 
 )
 criaCartao(
