@@ -86,3 +86,18 @@ criaCartao(
 
  )
  
+ criaCartao(
+'conhecimento gerais',
+' De onde é a invenção do chuveiro elétrico?',
+'Brasil',
+
+ )
+
+ criaCartao(
+'conhecimento gerais',
+'Em qual local da Ásia o português é língua oficial?',
+'Macau',
+
+ )
+
+ 
