@@ -100,6 +100,15 @@ footer{
     width: 100%;
 }
 
+footer{
+    background-color: var(--preto);
+    color: var(--branco);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
 
 
 
