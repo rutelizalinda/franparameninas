@@ -135,6 +135,9 @@ criaCartao(
 
 )
 criaCartao(
-'conheciemnbtos gerais '
+'conheciemnbtos gerais ',
+'Quais são os cromossomos que determinam o sexo masculino?',
+'Os Y.'
+
 )
  
