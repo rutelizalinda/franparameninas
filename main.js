@@ -19,10 +19,10 @@ let respostaEstavisivel= false;
 
 function viraCartao(){
 respostaEstavisivel = !respostaEstavisivel;
-cartao.classlits.toogle("active",respostaEstavisivel);
+cartao.classlits.toogle('active',respostaEstavisivel);
 }
 
-cartao.addEventListener("click,viraCartao");
+cartao.addEventListener('click,viraCartao');
 
 container.appendChild(cartao);
     
