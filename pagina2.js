@@ -18,8 +18,6 @@ container.appendChild(cartao);
 }
 function mostrarResposta(card){
     const resposta = card.querySelector('.resposta-cartao');
-}
-
     if(resposta.style.display === 'none') {
     resposta.style.display == 'block';
 
@@ -28,7 +26,7 @@ function mostrarResposta(card){
     resposta.style.display = 'none';
 
    }
-
+}
 
     
    
