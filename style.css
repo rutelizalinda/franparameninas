@@ -34,8 +34,8 @@ footer{
 }
 
 #container{
-    padding: 4rem; 
-    display: flex;
+    padding:4rem; 
+    display: grid;
     gap: 3rem;
     align-items: center;
     justify-content: space-between;
@@ -43,10 +43,10 @@ footer{
 }
 
 .cartao{
-    flex-grow: 1;
-    flex-basis: calc(33% - 6rem);
-    height: 20rem;
-    margin: 1rem;
+     flex-grow: 1;
+     flex-basis: calc(33% - 6rem);
+     height:  20rem;
+     margin: 1rem;
 }
 
 .conteudo-cartao{
@@ -99,16 +99,6 @@ footer{
     position:absolute;
     height: 100%;
     width: 100%;
-}
-
-footer{
-    background-color: var(--preto);
-    color: var(--branco);
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-
 }
 
 
